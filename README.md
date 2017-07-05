@@ -182,12 +182,13 @@ Join the Linux community and participate in development.
     * Use busybox to make the simplest filesystem that takes only 1-second to boot
       * https://github.com/gurugio/linuxdeveloptip/blob/master/minikernelwithbusybox.md
 * [The Eudyptula Challenge](http://eudyptula-challenge.org/)
+  * _Sadly, the challenge does not accept new challenger because there is no challenge anymore._ The maintainer said he/she is planning new format. I wish it comes back ASAP.
   * This is like an awesome private teacher who guide you what to do.
   * If you don't know what to do, just start this.
 * [Block layer and device driver(translation in progress)](https://github.com/gurugio/book_linuxkernel_blockdrv)
   * start from a simple block device driver example (Ramdisk) with multi-queue mode
   * go forward to block layer
-  * _need help for translation_
+  * _need help for translation_: I started the translation recently and aim to finish until July.
 * [md driver of Linux kernel(in progress)](https://github.com/gurugio/book_linuxkernel_md)
   * how mdadm tool works and how it calls md driver
   * how md driver works
@@ -218,6 +219,7 @@ I do not know the future, but I keep my eye on RUST.
 
 If I could have one week free and alone, I would learn RUST.
 That is because RUST is the latest language with which I can develop Linux device driver.
+* https://github.com/tsgates/rust.ko
 
 IoT is new trend, so it's worth to check what OSs are for IoT.
 ARM, Samsung and some companies has their own realtime OS but sadly many of them are close source.
@@ -236,3 +238,4 @@ Please send me the pull request if you'd like to translate this page. I'll list 
 
 * [Chinese](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_cn.md)
 * [Portuguese](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_pt.md)
+* [Italian](https://github.com/gurugio/lowlevelprogramming-university/blob/master/README_it.md)
